@@ -1,0 +1,1 @@
+{"version":3,"file":"46344854.css","mappings":"AAAA,qDAEI,UAAW,CADX,cAEJ,CAEA,0BACI,WAAY,CACZ,eACJ","sources":["webpack://ads-ui/./src/app/pages/home.css"],"sourcesContent":[".summary .summary-title-and-description .description {\n    font-size: 15px;\n    color: #333;\n}\n\n.summary .summary-actions {\n    float: right;\n    margin-top: 15px;\n}\n"],"names":[],"sourceRoot":""}
